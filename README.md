@@ -12,7 +12,7 @@
 ### SAME BOT (official pyro rename bot)
 
 <p align="center">
-🤖 <a href="https://filerenamero_bot.t.me"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
+🤖 <a href="https://telegram.dog/filerenamero_bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
 </p>
 
 ### DEPLOYEMENT SUPPORT
