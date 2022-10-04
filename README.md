@@ -6,7 +6,7 @@
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=sajalrock&repo=Rename-Bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=sajalrock&repo=Rename-bot&theme=dark)
 
 
 ### SAME BOT (official pyro rename bot)
